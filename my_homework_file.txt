@@ -1,0 +1,8 @@
+no longer empty
+/home/xardds
+├── code
+└── homework
+    └── homework1
+        └── my_homework_file.txt
+
+3 directories, 1 file
