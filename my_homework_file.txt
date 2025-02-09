@@ -6,3 +6,162 @@ no longer empty
         └── my_homework_file.txt
 
 3 directories, 1 file
+    1  ls
+    2  ls -a
+    3  cd ../
+    4  cd home
+    5  cd xardds/
+    6  ls
+    7  ls -a
+    8  mkdir code
+    9  cd code
+   10  clear
+   11  cd ../
+   12  ls
+   13  cd home/xardds/
+   14  ls -a
+   15  ssh-keygen -t ed25519
+   16  ls -a
+   17  ssh-keygen -t ed25519
+   18  ls -a
+   19  mkdir .ssh
+   20  ls -a
+   21  ls .ssh/
+   22  git --version
+   23  apt install cmake
+   24  cmake --version
+   25  apt install cmake
+   26  sudo apt update
+   27  sudo apt upgrade
+   28  sudo apt autoremove
+   29  cd .ssh/
+   30  ls
+   31  ls -a
+   32  cd ../../../
+   33  ls
+   34  cd /home
+   35  ls
+   36  cd xardds/
+   37  cd /
+   38  cd ~
+   39  ls
+   40  ls -a
+   41  cd ../
+   42  ls -a
+   43  cd ../
+   44  ls -a
+   45  cd ~
+   46  ls
+   47  ls -a
+   48  less --help
+   49  ls
+   50  cat .bash_history 
+   51  vim .bash_history 
+   52  ls .ssh -a
+   53  ssh-keygen -t ed25519
+   54  ls
+   55  mv ~/ssh
+   56  mv wsl-laptop-first.pub .ssh
+   57  mv wsl-laptop-first .ssh
+   58  ls
+   59  ls .ssh/
+   60  sudo apt update
+   61  sudo apt upgrade
+   62  sudo apt autoremove 
+   63  ls
+   64  ls -a
+   65  ls --help
+   66  git help
+   67  git help git
+   68  ls .ssh
+   69  rm .ssh/wsl-laptop-first .ssh/wsl-laptop-first.pub 
+   70  ls .ssh
+   71  ssh-keygen -t ed25519
+   72  ls -a
+   73  mv laptop-wsl-first.pub laptop-wsl-first .ssh/
+   74  ls -a
+   75  ls .ssh
+   76  cd .ssh
+   77  touch .config
+   78  ls
+   79  ls -a
+   80  vim .config 
+   81  cat .config 
+   82  vim .config 
+   83  cat .config 
+   84  vim .config 
+   85  cat .config
+   86  ls -a
+   87  cd ../code
+   88  git clone github:khardikova/bioinf_2025.git
+   89  cd code
+   90  git clone github:khardikova/bioinf_2025.git
+   91  vim ../.ssh/.config 
+   92  git clone github:khardikova/bioinf_2025.git
+   93  cd .ssh
+   94  cat .config 
+   95  cd ../code
+   96  git clone github:khardikova/bioinf_2025.git
+   97  ls
+   98  vim ../.ssh/.config
+   99  git clone github:khardikova/bioinf_2025.git
+  100  cd ../.ssh
+  101  ls
+  102  mv .config config
+  103  ls
+  104  cat config 
+  105  vim config 
+  106  cd ../code
+  107  git clone github:khardikova/bioinf_2025.git
+  108  vim ../.ssh/config 
+  109  git clone github:khardikova/bioinf_2025.git
+  110  ls
+  111  cd bioinf_2025/
+  112  cd ../
+  113  rm -rf bioinf_2025/
+  114  ls -a
+  115  cd ../
+  116  ls -a
+  117  mkdir ~/homework/homework1
+  118  mkdir ~/homework/
+  119  ls 
+  120  mkdir ~/homework/homework1
+  121  cd homework/homework1/
+  122  touch my_empty_file.txt
+  123  ls
+  124  echo "no longer empty" > my_empty_file.txt 
+  125  cat my_empty_file.txt 
+  126  mv my_empty_file.txt my_homework_file.txt
+  127  ls
+  128  cat my_homework_file.txt 
+  129  cd ../
+  130  cp homework1/my_homework_file.txt .
+  131  ls -r
+  132  ls --recursive
+  133  rm ./my_homework_file.txt
+  134  ls -R
+  135  tree ~
+  136  sudo apt install tree
+  137  tree ~
+  138  tree ~ >> homework1/my_homework_file.txt 
+  139  cat homework1/my_homework_file.txt 
+  140  git clone github:khardikova/bioinf_2025.git
+  141  ls
+  142  cp homework1/my_homework_file.txt bioinf_2025/
+  143  ls -R -a
+  144  ls -R
+  145  cd bioinf_2025/
+  146  git add my_homework_file.txt 
+  147  git status
+  148  git commit -m "add my_homework_file.txt"
+  149  git config --global user.email "xardds@mail.ru"
+  150  git config --global user.name "Daria Khardikova"
+  151  git commit -m "add my_homework_file.txt"
+  152  git log
+  153  git push
+  154  history
+  155  history >> ~/homework/homework1/my_homework_file.txt 
+  156  cat ~/homework/homework1/my_homework_file.txt 
+  157  cd homework/
+  158  cd bioinf_2025/
+  159  history >> my_homework_file.txt 
